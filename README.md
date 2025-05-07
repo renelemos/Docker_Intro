@@ -1,5 +1,5 @@
 > [!TIP]
-> First steps with Docker? You found the right repository.
+> First steps with Docker (with Vagrant and Virtualbox)? You found the right repository.
 
 ## Step 1 - How to start your operation with Docker
 1 - Install Oracle VirtualBox at https://www.virtualbox.org/wiki/Downloads (remember to choose according to your OS (Windows, macOS, Linux)
